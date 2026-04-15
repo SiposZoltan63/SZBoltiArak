@@ -27,9 +27,9 @@ namespace EvVegiArakWPF
             LoadData();
             deleteButton1.IsEnabled = false;
         }
+        List<Arak> arak = new List<Arak>();
         public void LoadData()
         {
-            List<Arak> arak = new List<Arak>();
             string[] beolvas = File.ReadAllLines("TermekekArai.txt");
 
             for (int i = 1; i < beolvas.Length; i++)
@@ -49,8 +49,11 @@ namespace EvVegiArakWPF
 
         private void deleteButton1_Click(object sender, RoutedEventArgs e)
         {
+            
             var aru = dataGrid1.SelectedItem as Arak;
-            MessageBox.Show(aru.ToString());
+            arak.Remove(aru);
+            dataGrid1.ItemsSource = null;
+            dataGrid1.ItemsSource = arak;
         }
     }
 
