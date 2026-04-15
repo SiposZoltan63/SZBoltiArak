@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -23,14 +24,37 @@ namespace EvVegiArakWPF
         public MainWindow()
         {
             InitializeComponent();
+            LoadData();
+            deleteButton1.IsEnabled = false;
         }
-        private void LoadData()
+        public void LoadData()
         {
+            List<Arak> arak = new List<Arak>();
+            string[] beolvas = File.ReadAllLines("TermekekArai.txt");
 
+            for (int i = 1; i < beolvas.Length; i++)
+            {
+                Arak ar = new Arak(beolvas[i]);
+                arak.Add(ar);
+            }
+            dataGrid1.ItemsSource = arak;
+        }
+
+
+
+        private void dataGrid1_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            deleteButton1.IsEnabled = true;
+        }
+
+        private void deleteButton1_Click(object sender, RoutedEventArgs e)
+        {
+            var aru = dataGrid1.SelectedItem as Arak;
+            MessageBox.Show(aru.ToString());
         }
     }
 
-    class Forgalom
+    class Arak
     {
         public int Kod { get; set; }
         public string Megnevezes { get; set; }
@@ -38,7 +62,7 @@ namespace EvVegiArakWPF
         public string Oktober { get; set; }
         public string November { get; set; }
         public string December { get; set; }
-        public Forgalom(string sor) 
+        public Arak(string sor) 
         {
             string[] adatok = sor.Split(';');
 

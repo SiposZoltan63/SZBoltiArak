@@ -9,7 +9,7 @@
     <Grid Height="700px" Width="800px">
         <Label Content="Kód:" HorizontalAlignment="Left" Margin="689,10,0,0" VerticalAlignment="Top"/>
         <TextBox HorizontalAlignment="Left" Margin="661,63,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
-        <DataGrid d:ItemsSource="{d:SampleData ItemCount=5}" Margin="10,5,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Height="669" Width="618"/>
+        <DataGrid x:Name="dataGrid1" d:ItemsSource="{d:SampleData ItemCount=5}" VerticalAlignment="Top" HorizontalAlignment="Left" Height="690" Width="628" SelectionChanged="dataGrid1_SelectionChanged"/>
         <Label Content="Név:" HorizontalAlignment="Left" Margin="689,111,0,0" VerticalAlignment="Top"/>
         <TextBox HorizontalAlignment="Left" Margin="661,164,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
         <Label Content="Szeptember:" HorizontalAlignment="Left" Margin="689,207,0,0" VerticalAlignment="Top"/>
@@ -21,6 +21,6 @@
         <Label Content="December:" HorizontalAlignment="Left" Margin="689,505,0,0" VerticalAlignment="Top"/>
         <TextBox HorizontalAlignment="Left" Margin="661,558,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
         <Button Content="Felvitel" HorizontalAlignment="Left" Margin="680,593,0,0" VerticalAlignment="Top" Height="29" Width="79"/>
-        <Button Content="Törlés" HorizontalAlignment="Left" Margin="659,639,0,0" VerticalAlignment="Top" Height="35" Width="124"/>
+        <Button Content="Törlés" x:Name="deleteButton1" HorizontalAlignment="Left" Margin="659,639,0,0" VerticalAlignment="Top" Height="35" Width="124" Click="deleteButton1_Click"/>
     </Grid>
 </Window>
