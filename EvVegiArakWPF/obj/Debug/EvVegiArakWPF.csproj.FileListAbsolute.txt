@@ -1,0 +1,16 @@
+C:\Users\siposz\Gitwork\EvVegiArakWPF\EvVegiArakWPF\bin\Debug\EvVegiArakWPF.exe.config
+C:\Users\siposz\Gitwork\EvVegiArakWPF\EvVegiArakWPF\bin\Debug\EvVegiArakWPF.exe
+C:\Users\siposz\Gitwork\EvVegiArakWPF\EvVegiArakWPF\bin\Debug\EvVegiArakWPF.pdb
+C:\Users\siposz\Gitwork\EvVegiArakWPF\EvVegiArakWPF\obj\Debug\EvVegiArakWPF.csproj.AssemblyReference.cache
+C:\Users\siposz\Gitwork\EvVegiArakWPF\EvVegiArakWPF\obj\Debug\MainWindow.g.cs
+C:\Users\siposz\Gitwork\EvVegiArakWPF\EvVegiArakWPF\obj\Debug\App.g.cs
+C:\Users\siposz\Gitwork\EvVegiArakWPF\EvVegiArakWPF\obj\Debug\EvVegiArakWPF_MarkupCompile.cache
+C:\Users\siposz\Gitwork\EvVegiArakWPF\EvVegiArakWPF\obj\Debug\EvVegiArakWPF_MarkupCompile.lref
+C:\Users\siposz\Gitwork\EvVegiArakWPF\EvVegiArakWPF\obj\Debug\MainWindow.baml
+C:\Users\siposz\Gitwork\EvVegiArakWPF\EvVegiArakWPF\obj\Debug\EvVegiArakWPF.g.resources
+C:\Users\siposz\Gitwork\EvVegiArakWPF\EvVegiArakWPF\obj\Debug\EvVegiArakWPF.Properties.Resources.resources
+C:\Users\siposz\Gitwork\EvVegiArakWPF\EvVegiArakWPF\obj\Debug\EvVegiArakWPF.csproj.GenerateResource.cache
+C:\Users\siposz\Gitwork\EvVegiArakWPF\EvVegiArakWPF\obj\Debug\EvVegiArakWPF.csproj.CoreCompileInputs.cache
+C:\Users\siposz\Gitwork\EvVegiArakWPF\EvVegiArakWPF\obj\Debug\EvVegiArakWPF.exe
+C:\Users\siposz\Gitwork\EvVegiArakWPF\EvVegiArakWPF\obj\Debug\EvVegiArakWPF.pdb
+C:\Users\siposz\Gitwork\EvVegiArakWPF\EvVegiArakWPF\obj\Debug\EvVegiArakWPF.exe.config

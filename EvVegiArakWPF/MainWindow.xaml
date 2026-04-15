@@ -1,0 +1,26 @@
+﻿<Window x:Class="EvVegiArakWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EvVegiArakWPF"
+        mc:Ignorable="d"
+        Title="2024-es árak alakulása" Height="750" Width="850">
+    <Grid Height="700px" Width="800px">
+        <Label Content="Kód:" HorizontalAlignment="Left" Margin="689,10,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="661,63,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <DataGrid d:ItemsSource="{d:SampleData ItemCount=5}" Margin="10,5,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Height="669" Width="618"/>
+        <Label Content="Név:" HorizontalAlignment="Left" Margin="689,111,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="661,164,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Szeptember:" HorizontalAlignment="Left" Margin="689,207,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="661,260,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label Content="Október:" HorizontalAlignment="Left" Margin="689,312,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="661,365,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label Content="November:" HorizontalAlignment="Left" Margin="689,409,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="661,462,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Label Content="December:" HorizontalAlignment="Left" Margin="689,505,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Margin="661,558,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120"/>
+        <Button Content="Felvitel" HorizontalAlignment="Left" Margin="680,593,0,0" VerticalAlignment="Top" Height="29" Width="79"/>
+        <Button Content="Törlés" HorizontalAlignment="Left" Margin="659,639,0,0" VerticalAlignment="Top" Height="35" Width="124"/>
+    </Grid>
+</Window>

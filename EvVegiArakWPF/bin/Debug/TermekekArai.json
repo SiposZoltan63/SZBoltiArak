@@ -1,0 +1,530 @@
+[
+  {
+    "Kod": 10001,
+    "Megnevezes": "Rövidkaraj",
+    "Szeptember": 2580,
+    "Oktober": 2590,
+    "November": 2600,
+    "December": 2630
+  },
+  {
+    "Kod": 10003,
+    "Megnevezes": "Sertéshús",
+    "Szeptember": 1980,
+    "Oktober": 2000,
+    "November": 2020,
+    "December": 2030
+  },
+  {
+    "Kod": 10103,
+    "Megnevezes": "Marhahús",
+    "Szeptember": 4700,
+    "Oktober": 4720,
+    "November": 4800,
+    "December": 4480
+  },
+  {
+    "Kod": 10401,
+    "Megnevezes": "Bontott csirke",
+    "Szeptember": 1360,
+    "Oktober": 1350,
+    "November": 1350,
+    "December": 1360
+  },
+  {
+    "Kod": 10405,
+    "Megnevezes": "Csirkecomb",
+    "Szeptember": 1180,
+    "Oktober": 1220,
+    "November": 1200,
+    "December": 1190
+  },
+  {
+    "Kod": 10407,
+    "Megnevezes": "Csirkeszárny",
+    "Szeptember": 1130,
+    "Oktober": 1140,
+    "November": 1140,
+    "December": 1130
+  },
+  {
+    "Kod": 10408,
+    "Megnevezes": "Pulykamellfilé",
+    "Szeptember": 2840,
+    "Oktober": 2830,
+    "November": 2870,
+    "December": 2920
+  },
+  {
+    "Kod": 10409,
+    "Megnevezes": "Csirkemellfilé (csont és bőr nélkül)",
+    "Szeptember": 2160,
+    "Oktober": 2240,
+    "November": 2270,
+    "December": 2270
+  },
+  {
+    "Kod": 10501,
+    "Megnevezes": "Szárazkolbász",
+    "Szeptember": 5700,
+    "Oktober": 5730,
+    "November": 5690,
+    "December": 5760
+  },
+  {
+    "Kod": 10502,
+    "Megnevezes": "Téliszalámi",
+    "Szeptember": 10910,
+    "Oktober": 10790,
+    "November": 10780,
+    "December": 10800
+  },
+  {
+    "Kod": 10506,
+    "Megnevezes": "Pulykamell sonka",
+    "Szeptember": 5310,
+    "Oktober": 5080,
+    "November": 5390,
+    "December": 5340
+  },
+  {
+    "Kod": 10601,
+    "Megnevezes": "Párizsi felvágott",
+    "Szeptember": 2680,
+    "Oktober": 2660,
+    "November": 2710,
+    "December": 2730
+  },
+  {
+    "Kod": 10602,
+    "Megnevezes": "Virsli",
+    "Szeptember": 3050,
+    "Oktober": 3040,
+    "November": 3010,
+    "December": 3030
+  },
+  {
+    "Kod": 10603,
+    "Megnevezes": "Olasz felvágott",
+    "Szeptember": 3150,
+    "Oktober": 3150,
+    "November": 3100,
+    "December": 3160
+  },
+  {
+    "Kod": 10801,
+    "Megnevezes": "Pontyszelet vagy filé",
+    "Szeptember": 4250,
+    "Oktober": 4390,
+    "November": 4410,
+    "December": 4470
+  },
+  {
+    "Kod": 11001,
+    "Megnevezes": "Tojás",
+    "Szeptember": 729,
+    "Oktober": 740,
+    "November": 825,
+    "December": 917
+  },
+  {
+    "Kod": 11101,
+    "Megnevezes": "Pasztőrözött ESL tej",
+    "Szeptember": 476,
+    "Oktober": 483,
+    "November": 487,
+    "December": 493
+  },
+  {
+    "Kod": 11103,
+    "Megnevezes": "Pasztőrözött ESL tej",
+    "Szeptember": 434,
+    "Oktober": 453,
+    "November": 445,
+    "December": 491
+  },
+  {
+    "Kod": 11104,
+    "Megnevezes": "UHT tartós tej dobozban",
+    "Szeptember": 451,
+    "Oktober": 462,
+    "November": 463,
+    "December": 455
+  },
+  {
+    "Kod": 11209,
+    "Megnevezes": "Sajt",
+    "Szeptember": 3150,
+    "Oktober": 3350,
+    "November": 3340,
+    "December": 3360
+  },
+  {
+    "Kod": 11301,
+    "Megnevezes": "Tejföl",
+    "Szeptember": 1960,
+    "Oktober": 1990,
+    "November": 2030,
+    "December": 2140
+  },
+  {
+    "Kod": 11306,
+    "Megnevezes": "Gyümölcsjoghurt",
+    "Szeptember": 203,
+    "Oktober": 200,
+    "November": 207,
+    "December": 216
+  },
+  {
+    "Kod": 11311,
+    "Megnevezes": "Tejföl 12% zsírtartalommal",
+    "Szeptember": 515,
+    "Oktober": 543,
+    "November": 547,
+    "December": 577
+  },
+  {
+    "Kod": 12001,
+    "Megnevezes": "Vaj",
+    "Szeptember": 610,
+    "Oktober": 625,
+    "November": 616,
+    "December": 715
+  },
+  {
+    "Kod": 12101,
+    "Megnevezes": "Sertészsír",
+    "Szeptember": 778,
+    "Oktober": 788,
+    "November": 768,
+    "December": 775
+  },
+  {
+    "Kod": 12201,
+    "Megnevezes": "Csemegeszalonna",
+    "Szeptember": 3270,
+    "Oktober": 3210,
+    "November": 3210,
+    "December": 3120
+  },
+  {
+    "Kod": 12301,
+    "Megnevezes": "Napraforgó-étolaj",
+    "Szeptember": 716,
+    "Oktober": 738,
+    "November": 725,
+    "December": 746
+  },
+  {
+    "Kod": 12402,
+    "Megnevezes": "Tejes margarin",
+    "Szeptember": 569,
+    "Oktober": 576,
+    "November": 571,
+    "December": 560
+  },
+  {
+    "Kod": 13002,
+    "Megnevezes": "Liszt",
+    "Szeptember": 264,
+    "Oktober": 274,
+    "November": 275,
+    "December": 261
+  },
+  {
+    "Kod": 13003,
+    "Megnevezes": "Rétesliszt",
+    "Szeptember": 325,
+    "Oktober": 337,
+    "November": 332,
+    "December": 335
+  },
+  {
+    "Kod": 13101,
+    "Megnevezes": "Rizs",
+    "Szeptember": 733,
+    "Oktober": 727,
+    "November": 728,
+    "December": 749
+  },
+  {
+    "Kod": 13201,
+    "Megnevezes": "Kenyér",
+    "Szeptember": 890,
+    "Oktober": 887,
+    "November": 886,
+    "December": 901
+  },
+  {
+    "Kod": 13206,
+    "Megnevezes": "Félbarna kenyér",
+    "Szeptember": 732,
+    "Oktober": 740,
+    "November": 734,
+    "December": 737
+  },
+  {
+    "Kod": 13301,
+    "Megnevezes": "Zsemle",
+    "Szeptember": 66,
+    "Oktober": 66,
+    "November": 65,
+    "December": 66
+  },
+  {
+    "Kod": 13305,
+    "Megnevezes": "Kakaós csiga",
+    "Szeptember": 247,
+    "Oktober": 251,
+    "November": 251,
+    "December": 253
+  },
+  {
+    "Kod": 13404,
+    "Megnevezes": "Spagetti",
+    "Szeptember": 611,
+    "Oktober": 578,
+    "November": 608,
+    "December": 546
+  },
+  {
+    "Kod": 13501,
+    "Megnevezes": "Kristálycukor",
+    "Szeptember": 409,
+    "Oktober": 406,
+    "November": 389,
+    "December": 386
+  },
+  {
+    "Kod": 13601,
+    "Megnevezes": "Kakaópor",
+    "Szeptember": 704,
+    "Oktober": 690,
+    "November": 695,
+    "December": 695
+  },
+  {
+    "Kod": 13617,
+    "Megnevezes": "Mogyorós tejcsokoládé",
+    "Szeptember": 567,
+    "Oktober": 587,
+    "November": 589,
+    "December": 574
+  },
+  {
+    "Kod": 13711,
+    "Megnevezes": "Jégkrém",
+    "Szeptember": 2140,
+    "Oktober": 2180,
+    "November": 2150,
+    "December": 2190
+  },
+  {
+    "Kod": 13801,
+    "Megnevezes": "Háztartási keksz",
+    "Szeptember": 1150,
+    "Oktober": 1160,
+    "November": 1110,
+    "December": 1110
+  },
+  {
+    "Kod": 13910,
+    "Megnevezes": "Akácméz",
+    "Szeptember": 5820,
+    "Oktober": 5790,
+    "November": 5730,
+    "December": 5440
+  },
+  {
+    "Kod": 14002,
+    "Megnevezes": "Kései burgonya",
+    "Szeptember": 372,
+    "Oktober": 386,
+    "November": 395,
+    "December": 396
+  },
+  {
+    "Kod": 14101,
+    "Megnevezes": "Sárgarépa",
+    "Szeptember": 546,
+    "Oktober": 559,
+    "November": 552,
+    "December": 529
+  },
+  {
+    "Kod": 14103,
+    "Megnevezes": "Vöröshagyma",
+    "Szeptember": 422,
+    "Oktober": 413,
+    "November": 431,
+    "December": 399
+  },
+  {
+    "Kod": 14104,
+    "Megnevezes": "Fejes káposzta",
+    "Szeptember": 471,
+    "Oktober": 461,
+    "November": 446,
+    "December": 449
+  },
+  {
+    "Kod": 14107,
+    "Megnevezes": "Paradicsom",
+    "Szeptember": 873,
+    "Oktober": 1190,
+    "November": 1370,
+    "December": 1360
+  },
+  {
+    "Kod": 14108,
+    "Megnevezes": "Zöldpaprika (szántóföldi és primőr együtt)",
+    "Szeptember": 940,
+    "Oktober": 1040,
+    "November": 1200,
+    "December": 1540
+  },
+  {
+    "Kod": 14110,
+    "Megnevezes": "Uborka",
+    "Szeptember": 1010,
+    "Oktober": 1050,
+    "November": 1100,
+    "December": 1130
+  },
+  {
+    "Kod": 14111,
+    "Megnevezes": "Gomba",
+    "Szeptember": 1790,
+    "Oktober": 1820,
+    "November": 1850,
+    "December": 1830
+  },
+  {
+    "Kod": 14201,
+    "Megnevezes": "Alma",
+    "Szeptember": 598,
+    "Oktober": 587,
+    "November": 593,
+    "December": 600
+  },
+  {
+    "Kod": 14202,
+    "Megnevezes": "Görögdinnye",
+    "Szeptember": 348,
+    "Oktober": 355,
+    "November": 360,
+    "December": 338
+  },
+  {
+    "Kod": 14209,
+    "Megnevezes": "Körte",
+    "Szeptember": 1070,
+    "Oktober": 1110,
+    "November": 1160,
+    "December": 1190
+  },
+  {
+    "Kod": 14221,
+    "Megnevezes": "Citrom",
+    "Szeptember": 1310,
+    "Oktober": 1310,
+    "November": 1110,
+    "December": 1030
+  },
+  {
+    "Kod": 14222,
+    "Megnevezes": "Banán",
+    "Szeptember": 754,
+    "Oktober": 751,
+    "November": 754,
+    "December": 742
+  },
+  {
+    "Kod": 14224,
+    "Megnevezes": "Narancs",
+    "Szeptember": 942,
+    "Oktober": 1030,
+    "November": 981,
+    "December": 900
+  },
+  {
+    "Kod": 14310,
+    "Megnevezes": "Dobozos narancslé",
+    "Szeptember": 938,
+    "Oktober": 988,
+    "November": 1090,
+    "December": 1170
+  },
+  {
+    "Kod": 14401,
+    "Megnevezes": "Gyorsfagyasztott zöldborsó",
+    "Szeptember": 1170,
+    "Oktober": 1180,
+    "November": 1130,
+    "December": 1150
+  },
+  {
+    "Kod": 14425,
+    "Megnevezes": "Csemegekukorica-konzerv",
+    "Szeptember": 1920,
+    "Oktober": 1920,
+    "November": 1940,
+    "December": 1940
+  },
+  {
+    "Kod": 14508,
+    "Megnevezes": "Gyümölcslekvár",
+    "Szeptember": 2650,
+    "Oktober": 2600,
+    "November": 2610,
+    "December": 2640
+  },
+  {
+    "Kod": 14601,
+    "Megnevezes": "Szárazbab",
+    "Szeptember": 1610,
+    "Oktober": 1620,
+    "November": 1610,
+    "December": 1600
+  },
+  {
+    "Kod": 14701,
+    "Megnevezes": "Tisztított dió",
+    "Szeptember": 5590,
+    "Oktober": 5700,
+    "November": 5720,
+    "December": 5490
+  },
+  {
+    "Kod": 15101,
+    "Megnevezes": "Hasábburgonya",
+    "Szeptember": 1090,
+    "Oktober": 1090,
+    "November": 1080,
+    "December": 1090
+  },
+  {
+    "Kod": 15201,
+    "Megnevezes": "Bors",
+    "Szeptember": 210,
+    "Oktober": 214,
+    "November": 219,
+    "December": 227
+  },
+  {
+    "Kod": 15202,
+    "Megnevezes": "Fűszerpaprika",
+    "Szeptember": 9120,
+    "Oktober": 9160,
+    "November": 9080,
+    "December": 8760
+  },
+  {
+    "Kod": 15204,
+    "Megnevezes": "Só",
+    "Szeptember": 267,
+    "Oktober": 267,
+    "November": 268,
+    "December": 268
+  }
+]
